@@ -1,6 +1,6 @@
 # ML Slicer Wrapper
 
-FastAPI+docker wrapper around the `ml-slicer` tool. It accepts a file upload, runs the slicer, and returns a zip of the results.
+FastAPI+docker wrapper around the [`ml-slicer`](https://github.com/tahh1/ml-slicer) tool. It accepts a file upload, runs the slicer, and returns a zip of the results.
 
 ## What it does
 
